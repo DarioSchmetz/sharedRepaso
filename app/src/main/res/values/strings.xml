@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SharedPreferenceExample</string>
+    <string name="user">User</string>
+    <string name="pass">Password</string>
+    <string name="guardar">GUARDAR</string>
+    <string name="cargar">CARGAR</string>
+</resources>
